@@ -1,4 +1,4 @@
-<img src="https://avatars2.githubusercontent.com/u/58399279?s=400&u=4569bf9efcace352b99154f3bc125609d7a27a91&v=4">
+
 
 
 ### Hi there 👋 , I am Medha Balani
