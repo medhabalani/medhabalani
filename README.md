@@ -6,7 +6,7 @@
 A sophomore at Indian Institute of Information Technology , Allahabad. 
 - 🔭 I’m currently working on some mini projects in python and practicing data structures and algorithms regularly.
 - 🌱 I’m currently learning python and web development.
-- :star_struck: I'm also interestested in blockchain and machine learning so will explore it soon.
+- :star_struck: I'm also interested in blockchain and machine learning so will explore it soon.
 
 
 <img src="https://github-readme-stats.vercel.app/api/?username=medhabalani&show_icons=true&theme=gotham&count_private=true" alt="github stats"/>
