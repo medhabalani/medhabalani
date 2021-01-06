@@ -1,5 +1,15 @@
-### Hi there 👋
+<img src="https://avatars2.githubusercontent.com/u/58399279?s=400&u=4569bf9efcace352b99154f3bc125609d7a27a91&v=4">
 
+
+### Hi there 👋 , I am Medha Balani
+
+A sophomore at Indian Institute of Information Technology , Allahabad. 
+- 🔭 I’m currently working on some mini projects in python and practicing data structures and algorithms regularly.
+- 🌱 I’m currently learning python and web development.
+- :star_struck: I'm also interestested in blockchain and machine learning so will explore it soon.
+
+
+<img src="https://github-readme-stats.vercel.app/api/?username=medhabalani&show_icons=true&theme=gotham&count_private=true" alt="github stats"/>
 <!--
 **medhabalani/medhabalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
